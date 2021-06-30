@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi There 👋
 
 ## Stats
 Pushed **{{ COMMITS }}** commits
