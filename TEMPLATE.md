@@ -6,9 +6,9 @@
 ## Stats
 Pushed **{{ COMMITS }}** *public* commits
 
-Submitted **{{ PULL_REQUESTS }}** pull requests
+Submitted **{{ PULL_REQUESTS }}** *public* pull requests
 
-Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
+Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** *public* repositories
 
 Most used languages across *public* repositories:
 
