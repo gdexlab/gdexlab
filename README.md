@@ -1,31 +1,10 @@
 ### Hi there 👋
 
-<!--
-**gdexlab/gdexlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Account age: **{{ ACCOUNT_AGE }}** years
-
 Pushed **{{ COMMITS }}** commits
-
-Opened **{{ ISSUES }}** issues
 
 Submitted **{{ PULL_REQUESTS }}** pull requests
 
 Reviewed **{{ CODE_REVIEWS }}** pull requests
-
-Received **{{ STARS }}** stars
 
 Own **{{ REPOSITORIES }}** repositories
 
