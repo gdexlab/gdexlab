@@ -4,17 +4,13 @@
 
 
 ## Stats
-Pushed **29** commits
+Pushed **30** *public* commits
 
 Submitted **340** pull requests
 
-Reviewed **{{ CODE_REVIEWS }}** pull requests
-
-Own **3** repositories
-
 Contributed to **65** public repositories
 
-Top 8 most used languages across your repositories:
+Most used languages across *public* repositories:
 
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B171.6%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B124.3%25)
