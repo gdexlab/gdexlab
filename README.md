@@ -1,12 +1,12 @@
-## Hello 👋
+## Hello, I'm Grant 👋
 
 ⌨️  Making the world a better place, one commit at a time.
 
 
 ## Stats
-Pushed **33** *public* commits
+Pushed **35** *public* commits
 
-Submitted **340** *public* pull requests
+Submitted **341** *public* pull requests
 
 Contributed to **65** *public* repositories
 
