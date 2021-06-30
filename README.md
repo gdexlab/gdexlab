@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## Stats
 Pushed **{{ COMMITS }}** commits
 
 Submitted **{{ PULL_REQUESTS }}** pull requests
