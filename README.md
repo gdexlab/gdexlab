@@ -4,11 +4,10 @@
 
 
 ## Stats
-Pushed **35** *public* commits
 
-Submitted **342** *public* pull requests
+Submitted **342** pull requests
 
-Contributed to **65** *public* repositories
+Contributed to **65** repositories
 
 Most used languages across *public* repositories:
 
