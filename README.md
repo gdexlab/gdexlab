@@ -7,7 +7,7 @@
 
 Submitted **387** pull requests
 
-Contributed to **59** repositories
+Contributed to **58** repositories
 
 Most used languages across *public* repositories:
 
