@@ -7,4 +7,4 @@
 
 Submitted **514** pull requests
 
-Contributed to **44** repositories
+Contributed to **43** repositories
