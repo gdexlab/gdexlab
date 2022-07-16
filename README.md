@@ -5,6 +5,6 @@
 
 ## Stats
 
-Submitted **555** pull requests
+Submitted **3** pull requests
 
-Contributed to **42** repositories
+Contributed to **1** repositories
